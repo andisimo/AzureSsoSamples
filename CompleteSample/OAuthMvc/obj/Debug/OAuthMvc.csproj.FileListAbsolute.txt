@@ -1,0 +1,166 @@
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\OAuthMvc.dll.config
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\OAuthMvc.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\OAuthMvc.pdb
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Antlr3.Runtime.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\EntityFramework.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Newtonsoft.Json.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Helpers.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Mvc.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Optimization.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Razor.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\WebGrease.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Helpers.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Mvc.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Optimization.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Razor.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Newtonsoft.Json.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Antlr3.Runtime.pdb
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\EntityFramework.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\obj\Debug\OAuthMvc.csprojResolveAssemblyReference.cache
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\obj\Debug\OAuthMvc.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\obj\Debug\OAuthMvc.pdb
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Devkeydet.OAuthHelper.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Devkeydet.OAuthHelper.pdb
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.Edm.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.OData.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.Services.Client.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Spatial.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.Edm.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.OData.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.Services.Client.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Spatial.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\de\System.Spatial.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\es\System.Spatial.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\fr\System.Spatial.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\it\System.Spatial.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ja\System.Spatial.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ko\System.Spatial.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ru\System.Spatial.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\OAuthMvc.dll.config
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\OAuthMvc.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\OAuthMvc.pdb
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Antlr3.Runtime.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Devkeydet.OAuthHelper.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\EntityFramework.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.Edm.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.OData.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.Services.Client.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Newtonsoft.Json.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Spatial.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Helpers.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Mvc.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Optimization.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Razor.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\WebGrease.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Devkeydet.OAuthHelper.pdb
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.Edm.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.OData.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.Data.Services.Client.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Spatial.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Helpers.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Mvc.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Optimization.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.Razor.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Newtonsoft.Json.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Antlr3.Runtime.pdb
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\EntityFramework.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\de\System.Spatial.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\es\System.Spatial.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\fr\System.Spatial.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\it\System.Spatial.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ja\System.Spatial.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ko\System.Spatial.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\ru\System.Spatial.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\obj\Debug\OAuthMvc.csprojResolveAssemblyReference.cache
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\obj\Debug\OAuthMvc.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\OAuthMvc\obj\Debug\OAuthMvc.pdb

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthWebForms", "OAuthWebForms\OAuthWebForms.csproj", "{487CEE2A-3E2C-47F2-A1B8-8BB6E05DB19B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{8C6C0EFC-7AD7-4A24-B67A-9B024FCBCFBF}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\AzureWebAppPublishModule.psm1 = PublishScripts\AzureWebAppPublishModule.psm1
+		PublishScripts\Publish-WebApplication.ps1 = PublishScripts\Publish-WebApplication.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{18360D14-26E6-420B-ABDA-70AC7B05BCA2}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Configurations\OAuthMvc-WAWS-dev-2.json = PublishScripts\Configurations\OAuthMvc-WAWS-dev-2.json
+		PublishScripts\Configurations\OAuthMvc-WAWS-dev.json = PublishScripts\Configurations\OAuthMvc-WAWS-dev.json
+		PublishScripts\Configurations\OAuthWebForms-WAWS-dev.json = PublishScripts\Configurations\OAuthWebForms-WAWS-dev.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devkeydet.OAuthHelper", "Devkeydet.OAuthHelper\Devkeydet.OAuthHelper.csproj", "{72DD6AED-68D9-4A82-B993-0581F5ACFA11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthMvc", "OAuthMvc\OAuthMvc.csproj", "{44EF62F5-EC09-4E5B-8E4C-60225848FEC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487CEE2A-3E2C-47F2-A1B8-8BB6E05DB19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487CEE2A-3E2C-47F2-A1B8-8BB6E05DB19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487CEE2A-3E2C-47F2-A1B8-8BB6E05DB19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487CEE2A-3E2C-47F2-A1B8-8BB6E05DB19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72DD6AED-68D9-4A82-B993-0581F5ACFA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DD6AED-68D9-4A82-B993-0581F5ACFA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DD6AED-68D9-4A82-B993-0581F5ACFA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DD6AED-68D9-4A82-B993-0581F5ACFA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44EF62F5-EC09-4E5B-8E4C-60225848FEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EF62F5-EC09-4E5B-8E4C-60225848FEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EF62F5-EC09-4E5B-8E4C-60225848FEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EF62F5-EC09-4E5B-8E4C-60225848FEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{18360D14-26E6-420B-ABDA-70AC7B05BCA2} = {8C6C0EFC-7AD7-4A24-B67A-9B024FCBCFBF}
+	EndGlobalSection
+EndGlobal

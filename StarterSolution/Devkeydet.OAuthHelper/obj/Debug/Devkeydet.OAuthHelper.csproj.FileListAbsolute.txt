@@ -1,0 +1,24 @@
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\bin\Debug\Devkeydet.OAuthHelper.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\bin\Debug\Devkeydet.OAuthHelper.pdb
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\obj\Debug\Devkeydet.OAuthHelper.dll
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\obj\Debug\Devkeydet.OAuthHelper.pdb
+C:\Users\marcsc\documents\visual studio 2013\Projects\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\obj\Debug\Devkeydet.OAuthHelper.csprojResolveAssemblyReference.cache
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\bin\Debug\Devkeydet.OAuthHelper.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\bin\Debug\Devkeydet.OAuthHelper.pdb
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\obj\Debug\Devkeydet.OAuthHelper.csprojResolveAssemblyReference.cache
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\obj\Debug\Devkeydet.OAuthHelper.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\CrmWebAppWebApiOAuth2UserIdentityDotNet\Devkeydet.OAuthHelper\obj\Debug\Devkeydet.OAuthHelper.pdb
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\StarterSolution\Devkeydet.OAuthHelper\bin\Debug\Devkeydet.OAuthHelper.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\StarterSolution\Devkeydet.OAuthHelper\bin\Debug\Devkeydet.OAuthHelper.pdb
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\StarterSolution\Devkeydet.OAuthHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\StarterSolution\Devkeydet.OAuthHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\StarterSolution\Devkeydet.OAuthHelper\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\StarterSolution\Devkeydet.OAuthHelper\obj\Debug\Devkeydet.OAuthHelper.csprojResolveAssemblyReference.cache
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\StarterSolution\Devkeydet.OAuthHelper\obj\Debug\Devkeydet.OAuthHelper.dll
+C:\Users\marcsc\Downloads\AzureWebAppCrmWebServiceOAuthSample\StarterSolution\Devkeydet.OAuthHelper\obj\Debug\Devkeydet.OAuthHelper.pdb
